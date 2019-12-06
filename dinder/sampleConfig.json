@@ -1,0 +1,7 @@
+{
+    "Port": "3000",
+    "dbname": "mydbname",
+    "username": "username",
+    "password": "password"
+}
+
